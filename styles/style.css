@@ -1,0 +1,26 @@
+body {
+    background-color: #00735C;
+}
+
+article {
+    background-color: #EDF0EE;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    background-color: #606462;
+    color: #EDF0EE;
+}
+
+h1 {
+    color: #00493A;
+    font-family: "Oswald", sans-serif;
+    font-style: bold;
+}
+
+nav {
+    background-color: #00493A;
+    color: #EDF0EE;
+}
